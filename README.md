@@ -63,12 +63,6 @@ Our system is built on a normalized database design with six primary entities:
 - **Forms & Interface**: Oracle APEX
 - **Report Generation**: Crystal Reports
 
-## Project Team
-
-- **Anisha Mogal & Saifuddin Ahmed** - Project Managers
-- **Parth Chaudhari** - Database Design
-- **Akshith Kamatala** - GUI Implementation
-- **Faseeh Ahmed Mohammad & Praneet Naik** - Query and Report Development
 
 ## Future Enhancements
 
