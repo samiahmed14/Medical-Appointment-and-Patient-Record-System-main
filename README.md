@@ -1,2 +1,0 @@
-# Medical-Appointment-and-Patient-Record-System-main
-Project
